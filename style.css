@@ -1,0 +1,48 @@
+#nav{
+position: fixed;
+top: 0%;
+z-index: 1;
+width: 100%;
+}
+#caro{
+    margin-top: 70px;
+}
+#about{
+    font-weight: bold;
+}
+#about:hover{
+    color: blue;
+}
+#hero{
+position: absolute;
+top: 30%;
+font-size: 50px;
+font-weight: bold;
+color: white;
+left: 5%;  
+}
+#hero1{
+    font-size: 60px;
+    font-weight: bold;
+}
+#imager{
+    background-image: url(./image/DSC_9054-scaled.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+
+#one, #two, #three {
+    background-color: rgb(237,240,245);
+}
+#sla{
+    font-weight: bold;
+    margin-top: 150px;
+}
+#sla2{
+    font-weight: bold;
+    margin-top: 200px;
+}
+#merge{
+    margin-top: 100px;
+}
